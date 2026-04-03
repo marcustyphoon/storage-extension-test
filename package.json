@@ -8,9 +8,9 @@
   },
   "devDependencies": {
     "eslint": "^8.57.1",
-    "eslint-config-prettier": "^9.1.0",
-    "prettier": "^3.3.3",
-    "web-ext": "^8.3.0"
+    "eslint-config-prettier": "^9.1.2",
+    "prettier": "^3.8.1",
+    "web-ext": "^10.1.0"
   },
   "webExt": {
     "sourceDir": "src/"
